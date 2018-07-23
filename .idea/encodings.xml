@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/back_content_management/CMS_QUERY.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/back_content_management/admin.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/back_content_management/art_function.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/back_content_management/art_main.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/back_content_management/art_overView.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/back_content_management/art_reviser.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/back_content_management/art_update.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/back_content_management/editor.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/back_content_management/function.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/back_content_management/login.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/back_content_management/post.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/back_content_management/session.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/back_content_management/upload.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main.php" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

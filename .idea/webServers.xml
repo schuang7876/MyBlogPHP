@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="badfa4d5-06e7-456d-8439-1d1e588e6587" name="myblog" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="D:\Apache24\htdocs" accessType="MOUNT" />
+      </webServer>
+      <webServer id="4b4077b8-ea96-4859-9ece-6ca832bb3dfa" name="120.24.240.52" url="http://syu4332740001.my3w.com">
+        <fileTransfer host="syu4332740001.my3w.com" port="21" rootFolder="/htdocs">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

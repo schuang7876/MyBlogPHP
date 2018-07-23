@@ -1,0 +1,21 @@
+.editor{
+    padding: 3em;
+}
+#title{
+    width: 100%;
+    font-size: 20px;
+    color: #ACB6B6;
+    margin: 2em auto;
+    display: block;
+}
+#submit{
+    background: #678092;
+    width: 80px;
+    margin: 1em auto;
+    color: #f1f1f1;
+    cursor: pointer;
+    text-align: center;
+    padding: 0.2em;
+    border-radius: 0.1em;
+    font-size: 19px;
+}
